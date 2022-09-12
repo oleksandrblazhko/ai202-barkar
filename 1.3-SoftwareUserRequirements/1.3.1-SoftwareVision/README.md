@@ -1,15 +1,3 @@
 ### Бачення програмного продукту
 
-**For:** Люди, які слідкують за своїм фізичним здоров'ям та займаються танцями
-
-**Who:** Актуальна інформація щодо шуму навколишнього середовища, можливість перегляду даних зі спортивного трекера, зберігання інформації щодо тренувань 
-
-**The:** EverDance
-
-**Is:** Health & Fitness app
-
-**That:** зручний інтерфейс, багато корисних функцій, що зібрані в одному додатку.
-
-**Unlike:** В інших додатках для створення плану тренувань немає доступу до інформації щодо шуму навколишнього середовища, а також немає можливості привʼязати дані з трекеру.
-
-**Our product:** Має можливість слідкувати як за зовнішнім середовищем, так і за внутрішніми процесами задля більш точного відстеження активності користувача.
+**For:** people **Who:** want to take care of their body while dancing, **The:** EverDance **Is:** IOS Health & Fitness product **That:** has a convenient interface and many useful functions collected in one application. **Unlike:** other services that provide minimum information about the environment, **Our product:** has the ability to monitor both the environment and internal processes for more accurate tracking of user activity.
