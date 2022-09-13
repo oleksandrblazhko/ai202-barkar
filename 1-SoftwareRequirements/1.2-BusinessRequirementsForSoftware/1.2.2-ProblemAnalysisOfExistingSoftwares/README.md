@@ -3,6 +3,6 @@
 
 |Продукт|Отримання інформації|Стан фізичного здоровʼя|Рівень шуму навколишнього середовища|Тип ліцензії|Примітка|
 |:-     |:-                  |:-                     |:-                                  |:-          |:-      |
-|Decibel X:db Sound Level Meter    |4                 |1                   |4                               |          |     |
+|Decibel X:db Pro Noise Meter - [!](https://skypaw.com/decibel10.html) |4                 |1                   |4                               |          |     |
 |Decibel |   3          |   2               |    4                          |          |      |
 |Шумомер (Sound Meter) |   3          |   1               |   2                          |          |      |
