@@ -1,6 +1,5 @@
 drop table user CASCADE;
 drop table purchase CASCADE;
-drop table subscriptions CASCADE;
 drop table schedule CASCADE;
 
 CREATE TABLE user(
@@ -15,7 +14,7 @@ CREATE TABLE user(
 CREATE TABLE purchase(
 	purchase_id INT PRIMARY KEY,
 	user_id INT REFERENCES user(user_id),
-	purchase_name VARCHAR NOT NULL,
+	purchase_type VARCHAR NOT NULL,
 	price DECIMAL(10, 2) NOT NULL,
   	purchase_time SMALLDATETIME NOT NULL
 );
