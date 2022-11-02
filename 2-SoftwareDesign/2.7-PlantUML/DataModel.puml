@@ -1,6 +1,6 @@
 @startuml
 
-title Relation Schema
+title Data Model
 hide circle
 
 entity "User" as user {
