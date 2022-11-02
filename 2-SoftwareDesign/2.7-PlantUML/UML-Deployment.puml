@@ -1,0 +1,14 @@
+@startuml
+
+title Deployment Everdance
+node "<<Smartphone>>" as dk {
+node "<<OS IOS>>" {
+component [.swift (Xcode)]
+}
+}
+interface Microphone
+interface Touchscreen
+Microphone -- dk
+Touchscreen -- dk
+
+@enduml
