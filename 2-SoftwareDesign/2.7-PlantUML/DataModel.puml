@@ -1,0 +1,37 @@
+@startuml
+
+title Relation Schema
+hide circle
+
+entity "User" as user {
+(PK)user_id
+--
+name
+surname
+gender
+email
+purchase_status
+}
+
+entity "Purchase" as purchase {
+(PK)purchase_id
+--
+name
+price
+time
+(FK) user_id
+}
+
+entity "Schedule" as schedule {
+(PK)day_id
+--
+day
+time
+dance_type,
+(FR) user_id
+}
+
+user --{ purchase
+user --{ schedule
+
+@enduml
