@@ -1,0 +1,14 @@
+@startuml
+
+title Conditional - Activity Diagram
+start
+:The user makes in-app subscription purchases;
+if (Was the purchase successful?) then (Yes)
+:The purchase status of the user has beem changed;
+else (No)
+:The purchase status of the user remains the same;
+endif
+:Checking of the user purchase status;
+stop
+
+@enduml
