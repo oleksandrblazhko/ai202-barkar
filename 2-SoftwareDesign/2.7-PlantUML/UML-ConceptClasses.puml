@@ -1,0 +1,11 @@
+@startuml
+
+title Classes Diagram
+Class User
+Class Dancing_Advice
+Class Tips_API
+
+User"*" -up-> "*"Dancing_Advice : watch
+Tips_API"1" -up-> "1"Dancing_Advice : provide
+
+@enduml
